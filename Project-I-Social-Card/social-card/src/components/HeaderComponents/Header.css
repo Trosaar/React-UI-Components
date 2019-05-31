@@ -1,1 +1,10 @@
 /* All styles for your header Components live here */
+.appHeader {
+  display: flex;
+  flex-direction: row;
+}
+
+.appHeader img {
+  width: 5%;
+  height: 5%;
+}

@@ -1,11 +1,9 @@
 import React from 'react';
 import './Button.css';
 
-const NumberButton = () => {
+const NumberButton = (props) => {
   return (
-    <div>
-      Number Buttons
-    </div>
+    <button className={props.buttonStyle}>{props.text.text}</button>
   );
 };
 

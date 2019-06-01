@@ -13,16 +13,21 @@
 
 .buttonStyle {
   width: 33.33%;
+  font-weight: bolder;
 }
 
 .math-symbols {
   width: 100%;
   background-color: Darkred;
   color: white;
-  border: 1px solid grey;
+  border: 1px solid lightgrey;
+  padding: 1vw;
+  font-weight: bold;
 }
 
 button {
   background-color: white;
-  border: 1px solid grey;
+  border: 1px solid lightgrey;
+  padding: 1vw;
+  font-size: 2rem;
 }

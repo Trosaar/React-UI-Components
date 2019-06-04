@@ -1,0 +1,7 @@
+.display {
+  background: black;
+  border: 1px solid lightgrey;
+  color: white;
+  text-align: right;
+  padding: 0.5rem;
+}
